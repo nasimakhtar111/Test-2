@@ -1,0 +1,8 @@
+(A)  Batch Culture
+A batch culture is a cell suspension culture grown in a fixed volume of nutrient culture medium.  Cell suspension increase in biomass by cell division and cell growth until a factor in the culture environment (nutrient or oxygen availability) becomes limiting and growth ceases.  The cells in culture exhibit the following five phases of a cell growth cycle.
+
+(i)	Lag Phase: where the cells prepare to divide.
+(ii)	Exponential Phase: where the rate of cell division is highest.
+(iii)	Linear Phase: where the cell division slows but the rate of cells expansion increases.
+(iv)	Deceleration Phase: where the rates of cell division and elongation decreases
+(v)	Stationary Phase: where the number and size of cells remain constant.
