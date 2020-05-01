@@ -1,0 +1,9 @@
+Cell Suspension/
+Cell Culture
+
+
+1.  Introduction
+A cell suspension culture consists of cell aggregates dispersed and growing in moving liquid media.  Establishment of single cell culture was first attempted by Haberlandt (1902) from leaves of flowering plant.  Although he failed to achieve the division of free cells, his work stimulated workers to pursue investigation on these lines.  To date, the progress in this field is so spectacular that it is possible not only to culture free cells but also to induce divisions in a cell and to raise whole plant from it.
+
+Advantages
+A single cell culture system provide an excellent opportunity to investigate the properties and potentialities of plant cells as well as to understand the interrelationship and complementary influence of cells in multi-cellular organisms.  Using cell cultures in studies designed to describe the pathways of cellular metabolism was another aspect that initially attracted the attention of plant biologists.  It was soon realized that single cell systems have a great potential for crop improvement.  Free cells in cultures permit quick administration and withdrawal of diverse chemical or substances, thereby making them easy targets for mutant selection.  Moreover, the individual cells within a population of cultured cells invariably shows cytological and metabolic variations depending on the stage of the growth cycle and culture conditions.  Such variability, termed “spatial heterogencity” (Lindsey and Yeoman, 1985) has been the subject of much interests since differences between cells in their karyotype and the ability to accumulate secondary metabolites would manifest during morphogenesis in the clones regenerated from single cells.
